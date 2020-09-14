@@ -1,0 +1,30 @@
+{
+    "title": "how to stop to trigger a tag in javascript - Google Search",
+    "href": "https://www.google.com/search?q=how+to+stop+to+trigger+a+tag+in+javascript&oq=how+to+stop+to+trigger+a+tag+in+javascript&aqs=chrome..69i57.13649j0j7&sourceid=chrome&ie=UTF-8",
+    "elements": [
+        {
+            "relxpath": "//*[@id='hplogo']",
+            "id": "hplogo"
+        },
+        {
+            "relxpath": "//*[@id='lga']",
+            "id": "lga"
+        },
+        {
+            "relxpath": "//*[@id='viewport']",
+            "id": "viewport"
+        },
+        {
+            "relxpath": "//*[@name='q']",
+            "id": ""
+        },
+        {
+            "relxpath": "//*[@class='sfbgg eliura-hover']",
+            "id": ""
+        },
+        {
+            "relxpath": "//*[@class='gNO89b eliura-hover']",
+            "id": ""
+        }
+    ]
+}
